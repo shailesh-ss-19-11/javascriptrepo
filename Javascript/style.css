@@ -1,0 +1,15 @@
+.main-class{
+    border: 10px solid green;
+    font-weight: bold;
+    font-size:20px
+}
+.container{
+    margin:10% 10%;
+}
+.bg-dark{
+    background-color:black;
+    color: #fff;
+}
+.border-red{
+    border:10px solid red;
+}
